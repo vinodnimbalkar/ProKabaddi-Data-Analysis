@@ -1,0 +1,257 @@
+"SeasonId","Metric","Name","Value"
+"Season1","SuccRaids","Telugu Titans",272
+"Season1","SuccRaids","U Mumba",270
+"Season1","SuccRaids","Jaipur Pink Panthers",270
+"Season1","SuccRaids","Patna Pirates",253
+"Season1","SuccRaids","Dabang Delhi K.C.",246
+"Season1","SuccRaids","Bengaluru Bulls",225
+"Season1","SuccRaids","Bengal Warriors",213
+"Season1","SuccRaids","Puneri Paltan",204
+"Season2","SuccRaids","Telugu Titans",265
+"Season2","SuccRaids","Bengaluru Bulls",194
+"Season2","SuccRaids","U Mumba",187
+"Season2","SuccRaids","Jaipur Pink Panthers",183
+"Season2","SuccRaids","Patna Pirates",182
+"Season2","SuccRaids","Puneri Paltan",170
+"Season2","SuccRaids","Dabang Delhi K.C.",159
+"Season2","SuccRaids","Bengal Warriors",134
+"Season3","SuccRaids","Patna Pirates",241
+"Season3","SuccRaids","Bengal Warriors",213
+"Season3","SuccRaids","U Mumba",206
+"Season3","SuccRaids","Telugu Titans",206
+"Season3","SuccRaids","Puneri Paltan",203
+"Season3","SuccRaids","Dabang Delhi K.C.",171
+"Season3","SuccRaids","Bengaluru Bulls",158
+"Season3","SuccRaids","Jaipur Pink Panthers",149
+"Season4","SuccRaids","Puneri Paltan",230
+"Season4","SuccRaids","Telugu Titans",206
+"Season4","SuccRaids","Patna Pirates",206
+"Season4","SuccRaids","Jaipur Pink Panthers",203
+"Season4","SuccRaids","U Mumba",188
+"Season4","SuccRaids","Bengal Warriors",167
+"Season4","SuccRaids","Dabang Delhi K.C.",162
+"Season4","SuccRaids","Bengaluru Bulls",157
+"Season1","RaidPoints","Bengaluru Bulls",647
+"Season1","RaidPoints","Patna Pirates",638
+"Season1","RaidPoints","U Mumba",624
+"Season1","RaidPoints","Jaipur Pink Panthers",621
+"Season1","RaidPoints","Telugu Titans",569
+"Season1","RaidPoints","Dabang Delhi K.C.",559
+"Season1","RaidPoints","Puneri Paltan",552
+"Season1","RaidPoints","Bengal Warriors",546
+"Season2","RaidPoints","Bengaluru Bulls",730
+"Season2","RaidPoints","Telugu Titans",707
+"Season2","RaidPoints","Patna Pirates",701
+"Season2","RaidPoints","U Mumba",697
+"Season2","RaidPoints","Puneri Paltan",600
+"Season2","RaidPoints","Jaipur Pink Panthers",599
+"Season2","RaidPoints","Bengal Warriors",595
+"Season2","RaidPoints","Dabang Delhi K.C.",585
+"Season3","RaidPoints","Patna Pirates",703
+"Season3","RaidPoints","Bengal Warriors",702
+"Season3","RaidPoints","Puneri Paltan",698
+"Season3","RaidPoints","U Mumba",685
+"Season3","RaidPoints","Dabang Delhi K.C.",614
+"Season3","RaidPoints","Telugu Titans",609
+"Season3","RaidPoints","Bengaluru Bulls",603
+"Season3","RaidPoints","Jaipur Pink Panthers",593
+"Season4","RaidPoints","Puneri Paltan",716
+"Season4","RaidPoints","Patna Pirates",692
+"Season4","RaidPoints","Telugu Titans",687
+"Season4","RaidPoints","Jaipur Pink Panthers",666
+"Season4","RaidPoints","Dabang Delhi K.C.",619
+"Season4","RaidPoints","Bengaluru Bulls",605
+"Season4","RaidPoints","Bengal Warriors",602
+"Season4","RaidPoints","U Mumba",594
+"Season1","SuccTack","Jaipur Pink Panthers",158
+"Season1","SuccTack","Bengaluru Bulls",153
+"Season1","SuccTack","U Mumba",145
+"Season1","SuccTack","Patna Pirates",124
+"Season1","SuccTack","Dabang Delhi K.C.",124
+"Season1","SuccTack","Bengal Warriors",106
+"Season1","SuccTack","Telugu Titans",96
+"Season1","SuccTack","Puneri Paltan",93
+"Season2","SuccTack","U Mumba",180
+"Season2","SuccTack","Telugu Titans",158
+"Season2","SuccTack","Bengaluru Bulls",158
+"Season2","SuccTack","Patna Pirates",152
+"Season2","SuccTack","Jaipur Pink Panthers",124
+"Season2","SuccTack","Dabang Delhi K.C.",122
+"Season2","SuccTack","Bengal Warriors",116
+"Season2","SuccTack","Puneri Paltan",104
+"Season3","SuccTack","Patna Pirates",175
+"Season3","SuccTack","Puneri Paltan",174
+"Season3","SuccTack","U Mumba",163
+"Season3","SuccTack","Bengal Warriors",137
+"Season3","SuccTack","Jaipur Pink Panthers",101
+"Season3","SuccTack","Telugu Titans",101
+"Season3","SuccTack","Dabang Delhi K.C.",98
+"Season3","SuccTack","Bengaluru Bulls",94
+"Season4","SuccTack","Telugu Titans",157
+"Season4","SuccTack","Patna Pirates",145
+"Season4","SuccTack","Puneri Paltan",140
+"Season4","SuccTack","Jaipur Pink Panthers",119
+"Season4","SuccTack","Bengal Warriors",117
+"Season4","SuccTack","Dabang Delhi K.C.",116
+"Season4","SuccTack","U Mumba",110
+"Season4","SuccTack","Bengaluru Bulls",109
+"Season1","SuccRaidsPerMatch","Telugu Titans",19.43
+"Season1","SuccRaidsPerMatch","Dabang Delhi K.C.",17.57
+"Season1","SuccRaidsPerMatch","Jaipur Pink Panthers",16.88
+"Season1","SuccRaidsPerMatch","U Mumba",16.88
+"Season1","SuccRaidsPerMatch","Patna Pirates",15.81
+"Season1","SuccRaidsPerMatch","Bengal Warriors",15.21
+"Season1","SuccRaidsPerMatch","Puneri Paltan",14.57
+"Season1","SuccRaidsPerMatch","Bengaluru Bulls",14.06
+"Season2","SuccRaidsPerMatch","Telugu Titans",16.56
+"Season2","SuccRaidsPerMatch","Jaipur Pink Panthers",13.07
+"Season2","SuccRaidsPerMatch","Puneri Paltan",12.14
+"Season2","SuccRaidsPerMatch","Bengaluru Bulls",12.13
+"Season2","SuccRaidsPerMatch","U Mumba",11.69
+"Season2","SuccRaidsPerMatch","Patna Pirates",11.38
+"Season2","SuccRaidsPerMatch","Dabang Delhi K.C.",11.36
+"Season2","SuccRaidsPerMatch","Bengal Warriors",9.57
+"Season3","SuccRaidsPerMatch","Patna Pirates",15.06
+"Season3","SuccRaidsPerMatch","Telugu Titans",14.71
+"Season3","SuccRaidsPerMatch","Bengal Warriors",13.31
+"Season3","SuccRaidsPerMatch","U Mumba",12.88
+"Season3","SuccRaidsPerMatch","Puneri Paltan",12.69
+"Season3","SuccRaidsPerMatch","Dabang Delhi K.C.",12.21
+"Season3","SuccRaidsPerMatch","Bengaluru Bulls",11.29
+"Season3","SuccRaidsPerMatch","Jaipur Pink Panthers",10.64
+"Season4","SuccRaidsPerMatch","Puneri Paltan",14.38
+"Season4","SuccRaidsPerMatch","U Mumba",13.43
+"Season4","SuccRaidsPerMatch","Patna Pirates",12.88
+"Season4","SuccRaidsPerMatch","Telugu Titans",12.88
+"Season4","SuccRaidsPerMatch","Jaipur Pink Panthers",12.69
+"Season4","SuccRaidsPerMatch","Bengal Warriors",11.93
+"Season4","SuccRaidsPerMatch","Dabang Delhi K.C.",11.57
+"Season4","SuccRaidsPerMatch","Bengaluru Bulls",11.21
+"Season1","SuccRaidPer","Telugu Titans",47.8
+"Season1","SuccRaidPer","Dabang Delhi K.C.",44
+"Season1","SuccRaidPer","Jaipur Pink Panthers",43.47
+"Season1","SuccRaidPer","U Mumba",43.26
+"Season1","SuccRaidPer","Patna Pirates",39.65
+"Season1","SuccRaidPer","Bengal Warriors",39.01
+"Season1","SuccRaidPer","Puneri Paltan",36.95
+"Season1","SuccRaidPer","Bengaluru Bulls",34.77
+"Season2","SuccRaidPer","Telugu Titans",37.48
+"Season2","SuccRaidPer","Jaipur Pink Panthers",30.55
+"Season2","SuccRaidPer","Puneri Paltan",28.33
+"Season2","SuccRaidPer","Dabang Delhi K.C.",27.17
+"Season2","SuccRaidPer","U Mumba",26.82
+"Season2","SuccRaidPer","Bengaluru Bulls",26.57
+"Season2","SuccRaidPer","Patna Pirates",25.96
+"Season2","SuccRaidPer","Bengal Warriors",22.52
+"Season3","SuccRaidPer","Patna Pirates",34.28
+"Season3","SuccRaidPer","Telugu Titans",33.82
+"Season3","SuccRaidPer","Bengal Warriors",30.34
+"Season3","SuccRaidPer","U Mumba",30.07
+"Season3","SuccRaidPer","Puneri Paltan",29.08
+"Season3","SuccRaidPer","Dabang Delhi K.C.",27.85
+"Season3","SuccRaidPer","Bengaluru Bulls",26.2
+"Season3","SuccRaidPer","Jaipur Pink Panthers",25.12
+"Season4","SuccRaidPer","Puneri Paltan",32.12
+"Season4","SuccRaidPer","U Mumba",31.64
+"Season4","SuccRaidPer","Jaipur Pink Panthers",30.48
+"Season4","SuccRaidPer","Telugu Titans",29.98
+"Season4","SuccRaidPer","Patna Pirates",29.76
+"Season4","SuccRaidPer","Bengal Warriors",27.74
+"Season4","SuccRaidPer","Dabang Delhi K.C.",26.17
+"Season4","SuccRaidPer","Bengaluru Bulls",25.95
+"Season1","SuccTackPerMatch","Jaipur Pink Panthers",9.87
+"Season1","SuccTackPerMatch","Bengaluru Bulls",9.56
+"Season1","SuccTackPerMatch","U Mumba",9.06
+"Season1","SuccTackPerMatch","Dabang Delhi K.C.",8.85
+"Season1","SuccTackPerMatch","Patna Pirates",7.75
+"Season1","SuccTackPerMatch","Bengal Warriors",7.57
+"Season1","SuccTackPerMatch","Telugu Titans",6.85
+"Season1","SuccTackPerMatch","Puneri Paltan",6.64
+"Season2","SuccTackPerMatch","U Mumba",11.25
+"Season2","SuccTackPerMatch","Telugu Titans",9.87
+"Season2","SuccTackPerMatch","Bengaluru Bulls",9.87
+"Season2","SuccTackPerMatch","Patna Pirates",9.5
+"Season2","SuccTackPerMatch","Jaipur Pink Panthers",8.85
+"Season2","SuccTackPerMatch","Dabang Delhi K.C.",8.71
+"Season2","SuccTackPerMatch","Bengal Warriors",8.28
+"Season2","SuccTackPerMatch","Puneri Paltan",7.42
+"Season3","SuccTackPerMatch","Patna Pirates",10.93
+"Season3","SuccTackPerMatch","Puneri Paltan",10.87
+"Season3","SuccTackPerMatch","U Mumba",10.18
+"Season3","SuccTackPerMatch","Bengal Warriors",8.56
+"Season3","SuccTackPerMatch","Jaipur Pink Panthers",7.21
+"Season3","SuccTackPerMatch","Telugu Titans",7.21
+"Season3","SuccTackPerMatch","Dabang Delhi K.C.",7
+"Season3","SuccTackPerMatch","Bengaluru Bulls",6.71
+"Season4","SuccTackPerMatch","Telugu Titans",9.81
+"Season4","SuccTackPerMatch","Patna Pirates",9.06
+"Season4","SuccTackPerMatch","Puneri Paltan",8.75
+"Season4","SuccTackPerMatch","Bengal Warriors",8.35
+"Season4","SuccTackPerMatch","Dabang Delhi K.C.",8.28
+"Season4","SuccTackPerMatch","U Mumba",7.85
+"Season4","SuccTackPerMatch","Bengaluru Bulls",7.78
+"Season4","SuccTackPerMatch","Jaipur Pink Panthers",7.43
+"Season1","SuccTackPer","Bengaluru Bulls",43.34
+"Season1","SuccTackPer","Jaipur Pink Panthers",39.5
+"Season1","SuccTackPer","U Mumba",35.45
+"Season1","SuccTackPer","Dabang Delhi K.C.",33.51
+"Season1","SuccTackPer","Patna Pirates",32.63
+"Season1","SuccTackPer","Telugu Titans",28.82
+"Season1","SuccTackPer","Bengal Warriors",27.82
+"Season1","SuccTackPer","Puneri Paltan",25.27
+"Season2","SuccTackPer","U Mumba",49.45
+"Season2","SuccTackPer","Bengaluru Bulls",46.33
+"Season2","SuccTackPer","Jaipur Pink Panthers",41.61
+"Season2","SuccTackPer","Patna Pirates",40.42
+"Season2","SuccTackPer","Telugu Titans",39.59
+"Season2","SuccTackPer","Bengal Warriors",37.9
+"Season2","SuccTackPer","Dabang Delhi K.C.",36.63
+"Season2","SuccTackPer","Puneri Paltan",33.87
+"Season3","SuccTackPer","U Mumba",49.54
+"Season3","SuccTackPer","Puneri Paltan",46.9
+"Season3","SuccTackPer","Patna Pirates",43.2
+"Season3","SuccTackPer","Bengal Warriors",41.64
+"Season3","SuccTackPer","Jaipur Pink Panthers",36.86
+"Season3","SuccTackPer","Telugu Titans",33.22
+"Season3","SuccTackPer","Bengaluru Bulls",32.3
+"Season3","SuccTackPer","Dabang Delhi K.C.",28.32
+"Season4","SuccTackPer","Patna Pirates",43.67
+"Season4","SuccTackPer","Telugu Titans",43.13
+"Season4","SuccTackPer","Puneri Paltan",40.57
+"Season4","SuccTackPer","Bengaluru Bulls",37.97
+"Season4","SuccTackPer","Dabang Delhi K.C.",37.9
+"Season4","SuccTackPer","U Mumba",37.54
+"Season4","SuccTackPer","Jaipur Pink Panthers",37.3
+"Season4","SuccTackPer","Bengal Warriors",36.79
+"Season1","SuperTack","Patna Pirates",18
+"Season1","SuperTack","Bengal Warriors",16
+"Season1","SuperTack","Puneri Paltan",14
+"Season1","SuperTack","Jaipur Pink Panthers",12
+"Season1","SuperTack","U Mumba",12
+"Season1","SuperTack","Bengaluru Bulls",10
+"Season1","SuperTack","Dabang Delhi K.C.",10
+"Season1","SuperTack","Telugu Titans",8
+"Season2","SuperTack","Bengal Warriors",20
+"Season2","SuperTack","Jaipur Pink Panthers",18
+"Season2","SuperTack","U Mumba",16
+"Season2","SuperTack","Telugu Titans",14
+"Season2","SuperTack","Dabang Delhi K.C.",14
+"Season2","SuperTack","Patna Pirates",12
+"Season2","SuperTack","Puneri Paltan",10
+"Season2","SuperTack","Bengaluru Bulls",6
+"Season3","SuperTack","Jaipur Pink Panthers",16
+"Season3","SuperTack","Telugu Titans",15
+"Season3","SuperTack","Puneri Paltan",13
+"Season3","SuperTack","Bengal Warriors",13
+"Season3","SuperTack","Dabang Delhi K.C.",13
+"Season3","SuperTack","Patna Pirates",7
+"Season3","SuperTack","Bengaluru Bulls",6
+"Season3","SuperTack","U Mumba",6
+"Season4","SuperTack","Patna Pirates",26
+"Season4","SuperTack","Dabang Delhi K.C.",18
+"Season4","SuperTack","Jaipur Pink Panthers",16
+"Season4","SuperTack","Bengaluru Bulls",15
+"Season4","SuperTack","U Mumba",11
+"Season4","SuperTack","Bengal Warriors",8
+"Season4","SuperTack","Puneri Paltan",6
+"Season4","SuperTack","Telugu Titans",5
