@@ -3,5 +3,7 @@ We are doing data analysis College Summer Project. ProKabaddi data originaly web
 ###### TODO
 - [x] Scrape Data </br>
 - [ ] Analysis on Every field </br>
-- [ ] Use KNN, K-Means, ANN algorithm </br>
+- [x] KNN Algorithm
+- [ ] K-Means Algorithm
+- [ ] ANN Algorithm </br>
 - [ ] Compare above algorithm 
